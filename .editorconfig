@@ -1,0 +1,9 @@
+root = true
+
+[*]  # 所有文件应用
+charset = utf-8
+indent_style = space  # 空格缩进
+indent_size = 2  # 缩进大小为两个字符
+end_of_line = lf
+insert_final_newline = true  # 结尾添加新空行
+trim_trailing_whitespace = true  # 去除多余空白字符

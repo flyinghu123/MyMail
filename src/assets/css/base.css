@@ -1,0 +1,6 @@
+/* :root -> 获取根元素html */
+/* --color-text -> css中定义变量 */
+/* color: var(--color-text)  -> var() 使用变量 */
+:root {
+  --color-text: #666;
+}
